@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Монітор 40' MSI MAG401QR (9S6-3EA54H-002)",
+        "price": 18999,
+        "image":"mon.jpg",
+        "description": ""
+    },
+    {
+        "title": "Навушники Panasonic RB-HX220BEE-K Black",
+        "price": 999,
+        "image": "0_600.jpg",
+        "description": "decr"
+    },
+    {
+        "title": "Електросамокат Segway-Ninebot MAX G30E II (AA.00.0010.32)",
+        "price": 10000,
+        "image": "87_600.jpg",
+        "description": "decr"
+    },
+    {
+        "title": "Смартфон Apple iPhone 15 Pro Max 256 GB Natural Titanium",
+        "price": 28000,
+        "image": "66_600.jpg",
+        "description": "decr"
+    },
+    {
+        "title": "Ноутбук DREAM MACHINES RG2050-15 (RG2050-15UA30)",
+        "price": 10000,
+        "image": "69_600.jpg",
+        "description": "decr"
+    },
+    {
+        "title": "Планшет Lenovo Tab M9 4/64 WiFi Arctic grey + Case&Film",
+        "price": 5999,
+        "image": "79_600.jpg",
+        "description": "decr"
+    },
+    {
+        "title": "Ігрова миша 2E Gaming MG320 RGB USB Black (2E-MG320UB)",
+        "price": 599,
+        "image": "82_600.jpg",
+        "description": "decr"
+    },
+    {
+        "title": "Геймерська клавіатура та мишка MSI Vigor GK30 COMBO WHITE UA (S11-04UA302-CLA)",
+        "price": 599,
+        "image": "kl1.jpg",
+        "description": "decr"
+    },
+    {
+        "title": "Портативний акумулятор Trust Primo Eco 20000 mAh Black (24676_TRUST)",
+        "price": 800,
+        "image": "42_600.jpg",
+        "description": "decr"
+    }
+]
